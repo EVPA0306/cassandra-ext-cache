@@ -1,0 +1,59 @@
+{
+  "key":"000003A8BEA2",
+  "rows":[
+    {
+      "cells":[
+        {"name":"adddatacrc","value":"-5089002301321821728"}
+      ,{"name":"advisories","value":"0"}
+      ,{"name":"bookmark","value":"3453"}
+      ,{"name":"bookmarktime","value":"2018-04-10 17:53Z"}
+      ,{"deleted":true,"name":"callsign"}
+      ,{"name":"cast","value":"C@St"}
+      ,{"name":"channelid","value":"11530"}
+      ,{"name":"channelnumber","value":"2"}
+      ,{"name":"deliveryid","value":"11530-SH015547980000-1523386427970"}
+      ,{"name":"duplicate","value":"2"}
+      ,{"name":"endoffset","value":"23633"}
+      ,{"name":"episodedef","value":"0"}
+      ,{"name":"episodenum","value":"5655"}
+      ,{"name":"episodetitle","value":"episode title"}
+      ,{"name":"genres","value":"GENRE1|GENRE2|GENRE3"}
+      ,{"name":"groupid","value":"SH00380341000"}
+      ,{"name":"groupname","value":"programtitle"}
+      ,{"deleted":true,"name":"images"}
+      ,{"name":"intstorage","value":"123"}
+      ,{"name":"keepuntil","value":"1"}
+      ,{"name":"lastupdated","value":"2018-04-10 17:53Z"}
+      ,{"deleted":true,"name":"longdescription"}
+      ,{"deleted":true,"name":"metadatamask"}
+      ,{"name":"mpaarating","value":"3"}
+      ,{"name":"prgdesc","value":"prgdesc"}
+      ,{"name":"prgtmsid","value":"SH015547980000"}
+      ,{"name":"programtitle","value":"programtitle"}
+      ,{"name":"qualifiers","value":"0"}
+      ,{"name":"recduration","value":"3600000"}
+      ,{"name":"recend","value":"2018-04-10 19:53Z"}
+      ,{"name":"recformat","value":"1"}
+      ,{"name":"recordingcrc","value":"508900230132"}
+      ,{"name":"recstart","value":"2018-04-10 18:53Z"}
+      ,{"name":"rectype","value":"7"}
+      ,{"name":"repeat","value":"8"}
+      ,{"name":"schduration","value":"3600000"}
+      ,{"name":"schedulerid","value":"5ca3f7f5-2fa4-4785-9d70-8b371fab094c"}
+      ,{"name":"schend","value":"2018-04-10 19:53Z"}
+      ,{"name":"schstart","value":"2018-04-10 18:53Z"}
+      ,{"name":"seasonnum","value":"70"}
+      ,{"name":"seriesid","value":"SH00380341000"}
+      ,{"deleted":true,"name":"shortdescription"}
+      ,{"name":"startoffset","value":"66"}
+      ,{"name":"status","value":"20"}
+      ,{"name":"team1id","value":"0"}
+      ,{"name":"team1name","value":"team1name"}
+      ,{"name":"team2id","value":"0"}
+      ,{"name":"team2name","value":"team2name"}
+      ,{"name":"tvrating","value":"3"}
+      ]
+    ,"clusteringKey":"384000002"
+    }
+  ]
+}
